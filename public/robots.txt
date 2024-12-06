@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://alexhormoziquotes.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
+
+# Additional rules
+Allow: /quotes
+Allow: /faq
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
